@@ -1,6 +1,8 @@
+
+<html>
 # primeiro-site-html
 um site para aperfeiçoar minhas habilidades e falar sobre mim
-<html>
+
 <h1 style = "font-family:arial; color: #407D00"><b>Dificuldades e Aprendizagens</b></h1>
 
 <div>
@@ -14,4 +16,4 @@ um site para aperfeiçoar minhas habilidades e falar sobre mim
   </li>
 </ul>
 </div>
-<html>
+</html>
