@@ -9,7 +9,8 @@ um site para aperfeiçoar minhas habilidades e falar sobre mim
   <li>
     <h3 style = "font-family:arial; color: #407D00">display: inline-block</h3>
     
-     hoje eu fiquei a maior parte do tempo tentanto entender como funcionava a quebra de linhas no html pois não conseguia deixar as <b>div(s)</b> alinhadas lado a lado, na maioria das vezes sempre acabavam se desalinhando, para resolver esse problema tive de ultizar o <b>display: inline-block</> mais o <b>vertical-align: top</b> assim alinhando-os de formar vertical ao inves do comum a mim o horizontal.
+     hoje eu fiquei a maior parte do tempo tentanto entender como funcionava a quebra de linhas no html pois não conseguia deixar as <b>div(s)</b> alinhadas lado a lado, na maioria das vezes sempre acabavam se desalinhando.
+    Para se torna-se possivel resolver esse problema tive de ultizar o <b>display: inline-block</> mais o <b>vertical-align: top</b> assim alinhando-os de formar vertical ao inves do comum a mim o horizontal.
   </li>
 </ul>
 </div>
