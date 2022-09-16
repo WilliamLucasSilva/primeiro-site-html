@@ -1,0 +1,22 @@
+.italico{
+	font-family:arial;
+	color: #407D00;
+}
+
+.destaque{
+	font-size: 18px;
+}
+
+.informacoes{
+	font-size: 17px;
+	display:inline-block;
+	padding:  20px;
+	vertical-align: top;	
+}
+
+.listavertical{
+	font-size: 17px;
+	padding: 30px;
+	display: inline-block;
+	vertical-align: top;
+}
