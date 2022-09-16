@@ -1,5 +1,8 @@
-
+<!DOCTYPE html>
 <html>
+  	<head>
+		<meta charset="UTF-8">
+    </head>
 # primeiro-site-html
 um site para aperfeiçoar minhas habilidades e falar sobre mim
 
